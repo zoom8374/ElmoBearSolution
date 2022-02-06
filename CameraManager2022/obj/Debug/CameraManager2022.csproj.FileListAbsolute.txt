@@ -1,0 +1,13 @@
+E:\ElmoBearSolutionApp\CameraManager2022\bin\Debug\Cognex.VisionPro.Core.dll
+E:\ElmoBearSolutionApp\CameraManager2022\bin\Debug\CameraManager2022.dll
+E:\ElmoBearSolutionApp\CameraManager2022\bin\Debug\CameraManager2022.pdb
+E:\ElmoBearSolutionApp\CameraManager2022\bin\Debug\Cognex.VisionPro.dll
+E:\ElmoBearSolutionApp\CameraManager2022\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+E:\ElmoBearSolutionApp\CameraManager2022\bin\Debug\stdole.dll
+E:\ElmoBearSolutionApp\CameraManager2022\bin\Debug\Cognex.VisionPro.xml
+E:\ElmoBearSolutionApp\CameraManager2022\bin\Debug\Cognex.VisionPro.Core.xml
+E:\ElmoBearSolutionApp\CameraManager2022\obj\Debug\CameraManager2022.csprojResolveAssemblyReference.cache
+E:\ElmoBearSolutionApp\CameraManager2022\obj\Debug\CameraManager2022.dll
+E:\ElmoBearSolutionApp\CameraManager2022\obj\Debug\CameraManager2022.pdb
+E:\ElmoBearSolutionApp\AppLibrary\CameraManager2022.dll
+E:\ElmoBearSolutionApp\AppLibrary\CameraManager2022.pdb
