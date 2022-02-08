@@ -11,3 +11,15 @@ E:\ElmoBearSolutionApp\CameraManager2022\obj\Debug\CameraManager2022.dll
 E:\ElmoBearSolutionApp\CameraManager2022\obj\Debug\CameraManager2022.pdb
 E:\ElmoBearSolutionApp\AppLibrary\CameraManager2022.dll
 E:\ElmoBearSolutionApp\AppLibrary\CameraManager2022.pdb
+C:\Zoom\Team Source management\ElmoBearSolutionApp\CameraManager2022\bin\Debug\CameraManager2022.dll
+C:\Zoom\Team Source management\ElmoBearSolutionApp\CameraManager2022\bin\Debug\CameraManager2022.pdb
+C:\Zoom\Team Source management\ElmoBearSolutionApp\CameraManager2022\bin\Debug\Cognex.VisionPro.Core.dll
+C:\Zoom\Team Source management\ElmoBearSolutionApp\CameraManager2022\bin\Debug\Cognex.VisionPro.dll
+C:\Zoom\Team Source management\ElmoBearSolutionApp\CameraManager2022\bin\Debug\MvCameraControl.Net.dll
+C:\Zoom\Team Source management\ElmoBearSolutionApp\CameraManager2022\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+C:\Zoom\Team Source management\ElmoBearSolutionApp\CameraManager2022\bin\Debug\stdole.dll
+C:\Zoom\Team Source management\ElmoBearSolutionApp\CameraManager2022\bin\Debug\Cognex.VisionPro.xml
+C:\Zoom\Team Source management\ElmoBearSolutionApp\CameraManager2022\bin\Debug\Cognex.VisionPro.Core.xml
+C:\Zoom\Team Source management\ElmoBearSolutionApp\CameraManager2022\obj\Debug\CameraManager2022.csprojResolveAssemblyReference.cache
+C:\Zoom\Team Source management\ElmoBearSolutionApp\CameraManager2022\obj\Debug\CameraManager2022.dll
+C:\Zoom\Team Source management\ElmoBearSolutionApp\CameraManager2022\obj\Debug\CameraManager2022.pdb

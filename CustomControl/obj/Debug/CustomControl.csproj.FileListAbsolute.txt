@@ -252,3 +252,10 @@ E:\ElmoBearSolutionApp\CustomControl\obj\Debug\CustomControl.GridViewManager.res
 E:\ElmoBearSolutionApp\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.Cache
 E:\ElmoBearSolutionApp\CustomControl\obj\Debug\CustomControl.dll
 E:\ElmoBearSolutionApp\CustomControl\obj\Debug\CustomControl.pdb
+C:\Zoom\Team Source management\ElmoBearSolutionApp\AppLibrary\CustomControl.dll
+C:\Zoom\Team Source management\ElmoBearSolutionApp\AppLibrary\CustomControl.pdb
+C:\Zoom\Team Source management\ElmoBearSolutionApp\CustomControl\obj\Debug\CustomControl.csprojResolveAssemblyReference.cache
+C:\Zoom\Team Source management\ElmoBearSolutionApp\CustomControl\obj\Debug\CustomControl.GridViewManager.resources
+C:\Zoom\Team Source management\ElmoBearSolutionApp\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.Cache
+C:\Zoom\Team Source management\ElmoBearSolutionApp\CustomControl\obj\Debug\CustomControl.dll
+C:\Zoom\Team Source management\ElmoBearSolutionApp\CustomControl\obj\Debug\CustomControl.pdb

@@ -27,3 +27,13 @@ C:\Users\Administrator\Desktop\ElmoBearSolutionApp\ElmoBearSolutionApp\obj\Debug
 C:\Users\Administrator\Desktop\ElmoBearSolutionApp\ElmoBearSolutionApp\obj\Debug\ElmoBearSolutionApp.csproj.GenerateResource.Cache
 C:\Users\Administrator\Desktop\ElmoBearSolutionApp\ElmoBearSolutionApp.exe
 C:\Users\Administrator\Desktop\ElmoBearSolutionApp\ElmoBearSolutionApp.pdb
+C:\Zoom\Team Source management\ElmoBearSolutionApp\ElmoBearSolutionApp.exe.config
+C:\Zoom\Team Source management\ElmoBearSolutionApp\ElmoBearSolutionApp\obj\Debug\ElmoBearSolutionApp.exe
+C:\Zoom\Team Source management\ElmoBearSolutionApp\ElmoBearSolutionApp\obj\Debug\ElmoBearSolutionApp.pdb
+C:\Zoom\Team Source management\ElmoBearSolutionApp\ElmoBearSolutionApp\obj\Debug\ElmoBearSolutionApp.csprojResolveAssemblyReference.cache
+C:\Zoom\Team Source management\ElmoBearSolutionApp\ElmoBearSolutionApp\obj\Debug\ElmoBearSolutionApp.MainForm.resources
+C:\Zoom\Team Source management\ElmoBearSolutionApp\ElmoBearSolutionApp\obj\Debug\ElmoBearSolutionApp.Properties.Resources.resources
+C:\Zoom\Team Source management\ElmoBearSolutionApp\ElmoBearSolutionApp\obj\Debug\ElmoBearSolutionApp.ucResultManager.resources
+C:\Zoom\Team Source management\ElmoBearSolutionApp\ElmoBearSolutionApp\obj\Debug\ElmoBearSolutionApp.csproj.GenerateResource.Cache
+C:\Zoom\Team Source management\ElmoBearSolutionApp\ElmoBearSolutionApp.exe
+C:\Zoom\Team Source management\ElmoBearSolutionApp\ElmoBearSolutionApp.pdb
